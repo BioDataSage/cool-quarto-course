@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Cool Quarto Course"
@@ -15,5 +16,3 @@ format:
   html:
     theme: cosmo
     toc: true
-  pdf:
-    documentclass: scrreprt
