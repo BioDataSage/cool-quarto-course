@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Cool Quarto Course"
+  author: "Padma"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - foundations.qmd
+    - workflows.qmd
+    - wrap-up.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: scrreprt

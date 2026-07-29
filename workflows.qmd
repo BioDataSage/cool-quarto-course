@@ -1,0 +1,17 @@
+# Workflows
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis justo
+vitae magna gravida, quis ullamcorper arcu ullamcorper. Aenean non ante ut
+magna posuere lacinia.
+
+## Authoring
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at sapien
+vulputate, vulputate tortor id, dictum arcu. Nulla vulputate nisl ac purus
+efficitur, vitae mollis lectus porttitor.
+
+## Publishing
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum urna sit
+amet lectus feugiat, at ullamcorper leo venenatis. Proin blandit urna id
+vulputate pretium.
