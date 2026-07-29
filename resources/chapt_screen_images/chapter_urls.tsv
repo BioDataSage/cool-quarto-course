@@ -1,0 +1,6 @@
+chapt_title	data_level	url	img_path
+Preface	1	https://biodatasage.github.io/cool-quarto-course/index.html	./resources/chapt_screen_images/index.png
+Introduction	2	https://biodatasage.github.io/cool-quarto-course/introduction.html	./resources/chapt_screen_images/introduction.png
+Foundations	3	https://biodatasage.github.io/cool-quarto-course/foundations.html	./resources/chapt_screen_images/foundations.png
+Workflows	4	https://biodatasage.github.io/cool-quarto-course/workflows.html	./resources/chapt_screen_images/workflows.png
+Wrap-Up	5	https://biodatasage.github.io/cool-quarto-course/wrap-up.html	./resources/chapt_screen_images/wrap-up.png
