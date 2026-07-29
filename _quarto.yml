@@ -16,3 +16,5 @@ format:
   html:
     theme: cosmo
     toc: true
+  pdf:
+    documentclass: scrreprt
