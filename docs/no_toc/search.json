@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cool Quarto Course",
+    "section": "",
+    "text": "1 Preface\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat semper ligula, vitae volutpat nibh viverra in. Donec facilisis, lorem sed consequat pretium, mi sapien luctus nibh, vitae fermentum libero neque non erat!!\nPraesent euismod magna ac arcu dictum, id varius felis consequat. Curabitur tempor mi at dolor consequat, non venenatis massa gravida. Suspendisse potenti. Vivamus efficitur, ipsum id interdum vestibulum, justo nulla fringilla mi, sed finibus nibh nunc id orci.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "Cool Quarto Course",
+    "section": "1.1 How to Use This Book",
+    "text": "1.1 How to Use This Book\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod nisl in ligula bibendum, sit amet gravida lorem dictum. Aliquam erat volutpat. Proin eget nisi vitae urna tempor aliquet.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "2.1 Why Quarto\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus sed nisi et justo feugiat vulputate. Maecenas convallis ipsum sit amet urna tincidunt, nec feugiat lacus tristique.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum sem sit amet augue pharetra, ac pellentesque magna fermentum. Integer commodo imperdiet mauris, id fermentum lacus ullamcorper sed.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html#what-you-will-build",
+    "href": "introduction.html#what-you-will-build",
+    "title": "2  Introduction",
+    "section": "2.2 What You Will Build",
+    "text": "2.2 What You Will Build\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet tellus nec arcu vulputate porttitor. Morbi vitae nibh at neque rhoncus placerat in sed turpis.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "foundations.html",
+    "href": "foundations.html",
+    "title": "3  Foundations",
+    "section": "",
+    "text": "3.1 Documents\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta metus at diam volutpat, sed elementum ipsum tincidunt. Duis vulputate, turpis at vulputate porta, urna sem laoreet leo, sit amet ultricies libero metus sit amet lectus.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis sem ut tortor interdum, quis ultricies ipsum dapibus. Integer fringilla convallis ipsum, sed malesuada odio volutpat sed.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations</span>"
+    ]
+  },
+  {
+    "objectID": "foundations.html#projects",
+    "href": "foundations.html#projects",
+    "title": "3  Foundations",
+    "section": "3.2 Projects",
+    "text": "3.2 Projects\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vehicula risus id erat commodo, sit amet viverra lectus euismod.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations</span>"
+    ]
+  },
+  {
+    "objectID": "workflows.html",
+    "href": "workflows.html",
+    "title": "4  Workflows",
+    "section": "",
+    "text": "4.1 Authoring\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis justo vitae magna gravida, quis ullamcorper arcu ullamcorper. Aenean non ante ut magna posuere lacinia.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at sapien vulputate, vulputate tortor id, dictum arcu. Nulla vulputate nisl ac purus efficitur, vitae mollis lectus porttitor.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "workflows.html#publishing",
+    "href": "workflows.html#publishing",
+    "title": "4  Workflows",
+    "section": "4.2 Publishing",
+    "text": "4.2 Publishing\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum urna sit amet lectus feugiat, at ullamcorper leo venenatis. Proin blandit urna id vulputate pretium.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Workflows</span>"
+    ]
+  },
+  {
+    "objectID": "wrap-up.html",
+    "href": "wrap-up.html",
+    "title": "5  Wrap-Up",
+    "section": "",
+    "text": "5.1 Next Steps\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam lorem nec turpis viverra, a tincidunt purus commodo. Suspendisse potenti. Integer hendrerit justo in dolor luctus, sed porttitor enim facilisis.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta erat in sem tristique, vel congue est pharetra. Integer ut ligula quis eros porta consequat.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Wrap-Up</span>"
+    ]
+  }
+]
